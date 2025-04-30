@@ -33,7 +33,7 @@ We have provided the following files/folders in the code folder
 
 ## Video Demonstration
 
-To see the firmware modifications in action, including the simulation of motor failure and the enhanced control algorithms, check out the video demonstration provided in the videos folder.
+To see the firmware modifications in action, including the simulation of motor failure and the enhanced control algorithms, check out the video demonstration provided [here](https://drive.google.com/drive/folders/1icqGDsD8RpMCed0sepqf204edmQgCSzS?usp=sharing).
 
 ---
 
