@@ -2,6 +2,7 @@
 # PX4 Modified Firmware
 
 Welcome to the modified PX4 firmware package. This project builds on the PX4 open-source flight control software with changes tailored to improve performance during motor failure scenarios. It includes tuning of the EKF2 estimator and modifications to the PX4 control algorithm for handling motor failures. Additionally, a motor failure plugin has been incorporated to simulate and test failure scenarios effectively.
+
 You can find the report [here](report.pdf)
 
 We have provided the following files/folders in the code folder
